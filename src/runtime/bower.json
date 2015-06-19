@@ -1,0 +1,22 @@
+{
+  "name": "graffiti",
+  "homepage": "https://github.com/jayphelps/graffiti",
+  "description": "Runtime for Graffiti, the universal web component framework",
+  "main": "dist/graffiti-runtime.js",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "web components",
+    "components",
+    "polymer",
+    "w3c",
+    "custom elements"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "tests"
+  ]
+}
