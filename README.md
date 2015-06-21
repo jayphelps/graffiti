@@ -7,3 +7,6 @@ The API/syntax will be in flux before the `v1.0.0` stable release. If you have c
 
 # License
 MIT Licensed
+
+# Acknowledgements
+A huge thank you to [Roland Poulter](https://github.com/rolandpoulter) for releasing the "graffiti" npm package name to us!
