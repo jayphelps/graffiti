@@ -41,7 +41,7 @@ function allInitial(tagName) {
   ].join('\n');
 }
 function compileCSS(input, tagName) {
-  var out = input.replace(/:host/, tagName);
+  var out = input.replace(/:host/g, tagName);
   return escapeQuotes(allInitial(tagName) + out);
 }
 
