@@ -1,6 +1,6 @@
 {
   "name": "graffiti",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "Universal Web Components",
   "main": "index.js",
   "author": "Jay Phelps <hello@jayphelps.com>",
